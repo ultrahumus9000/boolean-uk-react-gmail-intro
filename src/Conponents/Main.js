@@ -6,6 +6,9 @@ function Main() {
     <main className="email-view">
       <MainNav />
       <MainArticle />
+      <section className="reply-email">
+        <button> send </button>
+      </section>
     </main>
   )
 }
